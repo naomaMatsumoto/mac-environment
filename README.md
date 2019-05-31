@@ -6,6 +6,10 @@ https://itunes.apple.com/jp/app/xcode/id497799835?mt=12
 
 すでにインストール済みの方は最新にしてください。
 
+Xcodeとは？
+Appleのアプリを作るために必要になります。
+また、Hombebrewという物をインストールする際に必要になります。
+
 
 
 #### Homebrewのインストール
@@ -18,6 +22,9 @@ https://brew.sh/index_ja.html
 
 brew --version
 
+Homebrewとは？
+パッケージ管理を行うことができます。
+これではわからないと思うので、様々な言語に対応できるものという認識で今は大丈夫です！
 
 
 #### エディターのインストール
